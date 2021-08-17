@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1078022619722",
+    "project_id": "realtime-notes-aa16e",
+    "storage_bucket": "realtime-notes-aa16e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078022619722:android:02fe544c09cd24a62b1cb3",
+        "android_client_info": {
+          "package_name": "com.example.realtime_notes.realtime_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078022619722-oe8mnt4u6do9c09256a9hhg4tovuc6i4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realtime_notes.realtime_notes",
+            "certificate_hash": "6b1772bf6c0c5d532db6244378201d0b9c4843bd"
+          }
+        },
+        {
+          "client_id": "1078022619722-bkm0o083d2j5nap1nk07ocn5o1pupgva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_AGSboxpQRAj4jCDqmzRiPzfV2X-Eel8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078022619722-bkm0o083d2j5nap1nk07ocn5o1pupgva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
